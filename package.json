@@ -12,7 +12,7 @@
   "author": "Tatjana Kirotar",
   "license": "ISC",
   "devDependencies": {
-    "chromedriver": "^123.0.0",
+    "chromedriver": "^125.0.0",
     "jest": "^29.5.0",
     "selenium-webdriver": "^4.8.1"
   }
